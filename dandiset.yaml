@@ -32,7 +32,8 @@ assetsSummary:
   - BehavioralEpochs
   - ProcessingModule
 citation: Nair, Aditya (2026) A line attractor encoding a persistent internal state
-  requires neuropeptide signaling (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001131/draft
+  requires neuropeptide signaling (Version 0.260601.1203) [Data set]. DANDI Archive.
+  https://doi.org/10.48324/dandi.001131/0.260601.1203
 contributor:
 - affiliation: []
   email: adi.nair@caltech.edu
@@ -76,30 +77,31 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-07-31T17:31:29.917438+00:00'
-datePublished: '2024-08-26T16:47:29.372123+00:00'
+datePublished: '2026-06-01T12:03:13.709791+00:00'
 description: 'This dataset provides neural and behavioural annotation data from the
   paper: "A line attractor encoding a persistent internal state requires neuropeptide
   signaling". Data is stored in the NWB or HDF5 format and contains GCaMP traces,
   behavioural annotation (timing of behaviour) and other metadata.'
+doi: 10.48324/dandi.001131/0.260601.1203
 ethicsApproval: []
-id: DANDI:001131/draft
+id: DANDI:001131/0.260601.1203
 identifier: DANDI:001131
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001131/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001131/0.260601.1203/assets.yaml
 name: A line attractor encoding a persistent internal state requires neuropeptide
   signaling
 protocol: []
 publishedBy:
-  endDate: '2024-08-26T16:47:29.372123+00:00'
-  id: urn:uuid:f5c257cf-01bc-4fe3-b22f-974d6c3d766c
+  endDate: '2026-06-01T12:03:13.709791+00:00'
+  id: urn:uuid:d9a22185-c867-4f0e-a29e-706fa0da6f52
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-08-26T16:47:29.372123+00:00'
+  startDate: '2026-06-01T12:03:13.709791+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:59521674-91d4-4b61-8689-5cf20c54f5b3
+  - id: urn:uuid:db02e7e8-3868-4a8a-948f-d1b23ea20d4c
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
@@ -117,6 +119,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001131/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001131/0.260601.1203
+version: 0.260601.1203
 wasGeneratedBy: []
